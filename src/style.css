@@ -1,1 +1,16 @@
-/* styles go here */
+body {
+  font-family: initial;
+}
+  
+.form-fild {
+  display: block;
+}
+  
+.fild {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.indent:not(:last-child) {
+  margin-bottom: 10px;
+}
